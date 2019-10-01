@@ -46,5 +46,11 @@ export default [
         animeName:"Giant Killing",
         animeYear:2010,
         animeLink:"https://myanimelist.net/anime/7661/Giant_Killing"
+    },
+    {
+        animeEmoji:"⚔️ 😈 🧛🏻‍",
+        animeName:"Kimetsu No Yaiba",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
     }
 ]
